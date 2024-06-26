@@ -1,0 +1,12 @@
+#Project Description:
+Performed comprehensive exploratory data analysis (EDA) using Databricks on crime statistics data from multiple cities. Leveraged Apache Spark to analyze and derive insights from large-scale datasets. Explored crime trends, rates, and correlations across different cities including Dallas, Chicago, and New York. Developed and executed Spark SQL queries and data visualization techniques to uncover patterns and trends in crime data. Produced visualizations and summarized findings to facilitate data-driven decision-making and policy recommendations.
+
+#Outcome:
+Successfully completed the EDA project, delivering insights into crime patterns and trends across major cities. Provided actionable insights through visualizations and data summaries, aiding stakeholders in making informed decisions related to public safety and law enforcement strategies.
+
+#Added Value:
+Contributed to enhancing understanding of crime dynamics through data-driven analysis, demonstrating proficiency in handling and analyzing large-scale datasets using cloud-based analytics platforms.
+
+#Project Deliverables:
+    Databricks Notebook (.dbc file)
+    PDF report summarizing Spark commands, results, and visualizations
