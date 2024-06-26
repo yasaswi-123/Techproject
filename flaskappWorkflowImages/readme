@@ -1,0 +1,14 @@
+Description:
+Developed an interactive web application using Flask on AWS EC2, incorporating registration, login, and data storage functionalities. Key features include:
+
+    Registration Page: Designed a user-friendly registration form allowing users to input and store usernames, passwords, first names, last names, and emails securely.
+
+    Login System: Implemented a secure login system requiring usernames and passwords for access to user information.
+
+    Data Storage: Utilized SQLite to securely store and manage user data, ensuring reliability and scalability.
+
+    File Upload and Processing: Integrated functionality for users to upload and store files, including processing and displaying word counts dynamically.
+
+    Responsive Design: Employed responsive web design principles and optimized user interface elements for enhanced usability.
+
+    Deployment: Successfully launched and configured the application on AWS EC2, making it accessible over the internet.
