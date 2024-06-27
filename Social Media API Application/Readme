@@ -1,1 +1,25 @@
-Description
+Project Title:
+
+Social Media REST API Development Using Node.js and MongoDB
+Project Description:
+
+This project involves developing a comprehensive Social Media REST API using Node.js, Express, and MongoDB, with all endpoints thoroughly tested using Postman. The API includes essential social media functionalities, such as user registration and login, profile management, following and unfollowing users, and creating, updating, deleting, and liking/unliking posts. The project leverages MongoDB Atlas as the cloud database for efficient and scalable data storage. The API endpoints are designed to handle various CRUD operations, ensuring a robust and interactive backend for a social media application.
+Skills Achieved:
+
+    Node.js and Express: Developed a RESTful API using Node.js and Express to handle HTTP requests and route management.
+    MongoDB and Mongoose: Utilized MongoDB Atlas for cloud database management and Mongoose for schema-based data modeling.
+    RESTful API Design: Implemented RESTful principles to create intuitive and scalable API endpoints.
+    User Authentication and Authorization: Integrated user registration and login functionalities with secure password hashing and token-based authentication.
+    CRUD Operations: Designed and implemented CRUD operations for user profiles and social media posts.
+    Postman API Testing: Thoroughly tested API endpoints using Postman to ensure functionality and reliability.
+    Environment Configuration: Managed configuration using environment variables for secure and efficient development and deployment.
+    Version Control: Utilized Git and GitHub for version control and collaborative development.
+
+Project Structure:
+
+    Models: Contains Mongoose schemas and models for user and post data.
+    Routes: Defines the API endpoints and their corresponding controllers.
+    .env: Environment variables for secure configuration.
+    index.js: Entry point of the application, setting up the Express server and connecting to MongoDB.
+    Readme: Provides a detailed description of the application, setup instructions, and API documentation.
+    yarn.lock: Contains the dependency tree and ensures consistent dependency versions.
